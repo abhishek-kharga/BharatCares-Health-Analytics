@@ -50,4 +50,4 @@ Charts, summary tables, classification metrics, confusion matrix, and an example
 The model learns from artificial data and a simulated target. Its metrics do not demonstrate real-world clinical performance. Future work could use an approved de-identified dataset, validate target definitions with domain experts, assess fairness, use cross-validation, and document data governance.
 
 ## Repository
-Create a GitHub repository and upload the four required submission files. Add the final repository URL to the internship form after confirming the repository is accessible.
+https://github.com/abhishek-kharga/BharatCares-Health-Analytics.git
